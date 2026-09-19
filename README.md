@@ -40,8 +40,11 @@ money-handling correctness and failure behaviour.
 
 ## Public code
 
-Most of my work lives in private client repositories. These two are public:
+Most of my work lives in private client repositories. These three are public:
 
+- **[todo-minimal](https://github.com/erkinduran/todo-minimal)** — multi-user todo
+  app in Next.js 15, TypeScript and Prisma: Google sign-in, per-user data
+  isolation, Zod-validated endpoints and server-side pagination.
 - **[bbg-framework](https://github.com/erkinduran/bbg-framework)** — a minimal PHP
   micro-framework written from scratch: array routing, a PDO wrapper, plain-PHP
   views and global helpers. Built to understand what a framework actually does.
