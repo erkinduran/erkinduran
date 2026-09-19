@@ -54,6 +54,7 @@ Most of my work lives in private client repositories. These three are public:
 ## Contact
 
 - **LinkedIn** — [linkedin.com/in/erkinduran](https://www.linkedin.com/in/erkinduran)
+- **Upwork** — [upwork.com/freelancers/erkinduran](https://www.upwork.com/freelancers/erkinduran)
 - **Email** — erkinduran@gmail.com
 
 Open to freelance and consulting work.
